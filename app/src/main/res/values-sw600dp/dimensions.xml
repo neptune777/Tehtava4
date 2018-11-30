@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize">14sp</dimen>
+    <dimen name="fontSizeResultField">12sp</dimen>
+    <dimen name="calcElementHeight">25dp</dimen>
+    <dimen name="actionButtonHeight">25dp</dimen>
+    <dimen name="actionButtonVerticalMargin">0dp</dimen>
+    <dimen name="calcRowVerticalMargin">4dp</dimen>
+    <dimen name="notCalcButtonFontSize">14sp</dimen>
+    <dimen name="CalcButtonFontSize">14sp</dimen>
+    <dimen name="CalcRowHorizontalMargin">10dp</dimen>
+    <dimen name="operatorWidth">8dp</dimen>
+    <dimen name="calcElementWidth">50dp</dimen>
+
+</resources>

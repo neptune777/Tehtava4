@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laskukone</string>
+    <string name="plus">+ </string>
+    <string name="minus">- </string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="laske">Laske</string>
+    <string name="tyhjennaKaikki">Tyhjennä kaikki</string>
+    <string name="naytaLogi">Näytä logi</string>
+    <string name="tyhjennaLogi">Tyhjennä logi</string>
+    <string name="nolla">0</string>
+</resources>
